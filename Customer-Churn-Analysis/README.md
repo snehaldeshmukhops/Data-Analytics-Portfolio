@@ -2,26 +2,33 @@
 
 ## Objective
 
-Identify customer churn patterns and retention opportunities.
+Identify customer churn patterns and retention opportunities using Power BI.
 
-## Tools
+## Dashboard Preview
+
+![Customer Churn Dashboard](Customer_Churn_Dashboard.png)
+
+## Tools Used
 
 - Power BI
-- Excel
+- Data Cleaning
+- Data Analysis
+- Data Visualization
 
-## KPIs
+## Key KPIs
 
 - Churn Rate
 - Customer Segmentation
 - Retention Metrics
 - Risk Categories
 
-## Insights
+## Business Insights
 
-- Identified major churn drivers.
-- Segmented customers based on risk profiles.
-- Recommended retention strategies.
+- Identified customer segments with high churn probability.
+- Analyzed retention opportunities across customer groups.
+- Developed interactive dashboard for business decision-making.
 
-## Dashboard Preview
+## Files Included
 
-(Add Screenshot Here)
+- Customer_Segmentation_Sales_Dashboard_Snehal.pbix
+- Customer_Churn_Dashboard.png
