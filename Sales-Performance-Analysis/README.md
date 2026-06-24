@@ -4,24 +4,31 @@
 
 Analyze sales performance across products and regions.
 
-## Tools
+## Dashboard Preview
+
+![Sales Performance Dashboard](Sales_Performance_Dashboard.png)
+
+## Tools Used
 
 - Power BI
-- Excel
+- Microsoft Excel
+- Data Visualization
 
-## KPIs
+## Key KPIs
 
 - Revenue
 - Sales Growth
 - Product Performance
-- Regional Performance
+- Regional Sales Analysis
 
-## Insights
+## Business Insights
 
-- Identified top-performing products.
-- Analyzed regional sales trends.
-- Developed KPI scorecards for management reporting.
+- Identified top-performing products and regions.
+- Tracked revenue growth trends.
+- Created dashboard to support business decisions.
 
-## Dashboard Preview
+## Files Included
 
-(Add Screenshot Here)
+- SALES DASHBOARD.pbix
+- Sales_Analysis_Project.xlsx
+- Sales_Performance_Dashboard.png
